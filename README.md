@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Driven Thermal Monitoring & Anomaly Detection System
 
 Python/OpenCV prototype for highlighting unusually bright regions in thermal-style images or video, raising threshold-based warnings, and logging candidate anomalies to CSV.
@@ -73,3 +74,7 @@ Treat detections as candidates requiring verification. Do not use this prototype
 
 ## License
 MIT. See `LICENSE`.
+=======
+# thermal-monitoring-anomaly-detection
+AI-driven hardware temperature monitoring and anomaly detection system using Python, OpenCV, and GPU sensor data, featuring real-time monitoring, threshold-based alerts, and CSV logging.
+>>>>>>> 444da2882a19067dcb5b8baad6aa2ef8dc5f5458
